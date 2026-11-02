@@ -12,7 +12,7 @@ Esta es la experiencia clásica de **Super Mario Bros.** adaptada de forma **nat
 ## 🖼️ Vista Previa
 
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI.png" alt="Captura del Port en PC" width="85%"/>
+  <img src="https://i.ibb.co/nM34dZHt/Gemini-Generated-Image-71y4jg71y4jg71y4.jpg" alt="Captura del Port en PC" width="85%"/>
 </p>
 
 ---
