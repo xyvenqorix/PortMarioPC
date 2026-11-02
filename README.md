@@ -5,18 +5,24 @@
   <img src="https://img.shields.io/badge/Status-Lanzamiento%20Oficial-success?style=for-the-badge" alt="Status">
 </p>
 
-Esta es la experiencia clásica de **Super Mario Bros.** adaptada de forma **nativa para PC**. No requiere configuración de emuladores ni descargas adicionales. ¡Solo ejecuta y juega!
+Esta es la experiencia clásica de **Super Mario Bros.** adaptada de forma **nativa para PC**. **El archivo ZIP ya incluye el juego integrado de fábrica**, sin configuraciones ni descargas adicionales. ¡Solo descarga, descomprime y juega!
 
-Este port oficial nativo está optimizado para ofrecer una experiencia fluida, pantalla completa y controles adaptados directamente en tu escritorio.
+---
+
+## 🖼️ Vista Previa
+
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_AQUI.png" alt="Captura del Port en PC" width="85%"/>
+</p>
 
 ---
 
 ## ✨ Características Principales
 
-- **Ejecutable Directo (`.exe`):** No requiere instalación de Python ni de herramientas externas. Todo está empaquetado en un solo archivo.
-- **Rendimiento Fluido:** Optimizado para PC, garantizando una tasa de cuadros estable sin tirones.
-- **Soporte de Pantalla Completa:** Opción integrada para jugar en pantalla completa con un solo clic.
-- **Controles Adaptados:** Funciona perfectamente con teclado e incluye atajos rápidos para una mejor experiencia.
+- **Todo en Uno:** El archivo descargado ya incluye el juego y el lanzador listos para usar.
+- **Ejecutable Directo (`.exe`):** Sin instalaciones complicadas ni pasos previos.
+- **Rendimiento Fluido:** Optimizado para PC con una tasa de cuadros estable y sin tirones.
+- **Soporte de Pantalla Completa:** Juega en pantalla completa con un solo clic.
 
 ---
 
@@ -24,10 +30,9 @@ Este port oficial nativo está optimizado para ofrecer una experiencia fluida, p
 
 Es muy sencillo:
 
-1.  Descarga la carpeta del proyecto.
-2.  Busca el archivo llamado **`SuperMarioBrosPort.exe`** (o el nombre que le hayas puesto al `.exe`).
-3.  Haz doble clic en él.
-4.  ¡Disfruta del juego!
+1. Descarga y descomprime el archivo ZIP del proyecto.
+2. Haz doble clic en **`mario_pc_launcher.exe`** (asegúrate de mantenerlo junto con la carpeta del juego).
+3. ¡Disfruta! *(Puedes salir rápidamente presionando la tecla **F4**).*
 
 ---
 
@@ -49,6 +54,10 @@ Es muy sencillo:
 
 ---
 
-## 📄 Licencia y Créditos
+## ☕ Apoyo Voluntario (Donaciones)
 
-Este proyecto es un port nativo desarrollado por **xyvenqorix** para fines de preservación y entretenimiento. Todos los derechos reservados sobre esta adaptación.
+Si te gusta este proyecto y deseas apoyar el desarrollo continuo de más ports, puedes colaborar mediante criptomonedas:
+
+* **USDT (Red Polygon / MATIC):** 
+  ```text
+  0x57b2268e875B4555f2bF2dE6EE09196a9E17C55f
