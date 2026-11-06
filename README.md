@@ -1,6 +1,6 @@
 # 🎮 Super Mario Bros. - Native PC Port
 
-**Release Descarga:** [Release](https://github.com/xyvenqorix/PortMarioPC/releases#release-mario_pc_launcher1.0beta)
+**Release Descarga:** [Release](https://github.com/xyvenqorix/PortMarioPC/releases/tag/LacuncheAlphaClassicNESSeriesSuperMarioBros)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20PC-blue?style=for-the-badge&logo=windows" alt="Platform Windows">
